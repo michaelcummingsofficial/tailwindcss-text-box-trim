@@ -3,8 +3,8 @@
 **Perfect typography spacing for Tailwind CSS v4+**
 
 [![npm version](https://img.shields.io/npm/v/tailwindcss-text-box-trim.svg)](https://www.npmjs.com/package/tailwindcss-text-box-trim)
-[![GitHub](https://img.shields.io/github/license/michaelcummings12/tailwindcss-text-box-trim)](https://github.com/michaelcummings12/tailwindcss-text-box-trim/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/michaelcummings12/tailwindcss-text-box-trim?style=social)](https://github.com/michaelcummings12/tailwindcss-text-box-trim)
+[![GitHub](https://img.shields.io/github/license/michaelcummingsofficial/tailwindcss-text-box-trim)](https://github.com/michaelcummingsofficial/tailwindcss-text-box-trim/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/michaelcummingsofficial/tailwindcss-text-box-trim?style=social)](https://github.com/michaelcummingsofficial/tailwindcss-text-box-trim)
 
 ![Before and after comparison of text-box-trim behavior](./assets/example.png)
 
